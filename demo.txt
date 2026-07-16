@@ -1,1 +1,7 @@
+HEAD
+HEAD
 Using feature Merging the two branches
+This is the demo of Merging the two branches
+883584e (initial commit)
+mohit
+5c74c0b (rebase)
